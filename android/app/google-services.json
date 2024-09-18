@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850656106213",
+    "project_id": "max-v2-chat-app",
+    "storage_bucket": "max-v2-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850656106213:android:837d358419f5d7495b260c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6rExi-NmFc0npN06xIIuC18r7xgowzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850656106213:android:47fc04046553cc085b260c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6rExi-NmFc0npN06xIIuC18r7xgowzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
